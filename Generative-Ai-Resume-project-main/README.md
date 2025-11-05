@@ -105,8 +105,8 @@ docker run -p 8501:8501 ai-resume-analyzer
 ## 🧑‍💻 Author
 
 **Pushpam Kumar**
-GitHub: [Pushpamkumar](https://github.com/Pushpamkumar)
-Project Repository: [AI Resume Analyzer](https://github.com/Pushpamkumar/devops_project)
+GitHub: [Pushpamkumar](https://github.com/abhinav12222363)
+Project Repository: [AI Resume Analyzer](https://github.com/abhinav12222363/AI-Resume-Analyzer-)
 
 ---
 
